@@ -1,4 +1,4 @@
-# NextBase Starter
+# Next Saas Template
 
 Nextbase Lite is a simple Next.js 13 + Supabase boilerplate. It includes a Next.js 13 app with Typescript, Supabase and Tailwind CSS. It includes the all new `app` folder, `layout` components, React `server components` and more!
 
